@@ -1,0 +1,3 @@
+[submodule "project-a"]
+	path = project-a
+	url = git@github.com:namhkse/project-a.git
